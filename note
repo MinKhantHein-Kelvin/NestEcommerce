@@ -1,0 +1,2 @@
+npm run migration:generate db/migrations/initial
+npx typeorm migration:create db/migrations/addPasswordToUser
